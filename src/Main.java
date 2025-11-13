@@ -16,6 +16,10 @@ public class Main {
         else {
             System.out.println("Podano niepoprawny numer programu");
         }
-
+        odkurzacz.on();
+        odkurzacz.on();
+        odkurzacz.on();
+        bazowa.wyswietlanie("Odkurzacz rozładował sie");
+        odkurzacz.off();
     }
 }
