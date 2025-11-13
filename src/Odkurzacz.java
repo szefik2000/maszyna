@@ -1,2 +1,3 @@
-public class Odkurzacz {
+public class Odkurzacz extends Bazowa{
+
 }
